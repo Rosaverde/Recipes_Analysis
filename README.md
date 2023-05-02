@@ -22,6 +22,4 @@ https://www.kaggle.com/datasets/hugodarwood/epirecipes
 + Grid search
 + Metrics
     + r2_score
-    + mean_absolute_error# Recipes_Analysis# Recipes_Analysis
-# Recipes_Analysis
-# Recipes_Analysis
+    + mean_absolute_error
